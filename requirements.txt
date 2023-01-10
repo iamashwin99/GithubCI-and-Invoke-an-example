@@ -1,0 +1,3 @@
+# Use invoke to define tasks
+invoke==1.7.3
+# Add other project dependencies here
